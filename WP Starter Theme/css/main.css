@@ -2,16 +2,9 @@
 
 
 /* DEFAULTS */
-:root {
-  font-size: 16pt;
-}
-* {
-font-family: 'Open Sans', sans-serif;
-color: #333;
-font-size: 1rem;
-}
-body,html {
-  margin: 0;
-}
+:root {font-size: 16pt;}
+* {font-family: 'Open Sans', sans-serif;color: #333;font-size: 1rem;}
+body,html {margin: 0;}
+img {max-width: 100%;}
 
 /* TREE STYLING */
