@@ -1,5 +1,6 @@
 /* COLORS */
-
+.green{color: green;}
+.bg-green{background-color: green;}
 
 /* DEFAULTS */
 :root {font-size: 16pt;}

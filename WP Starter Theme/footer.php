@@ -1,6 +1,6 @@
-<footer class="col-xs-12 text-center margin-sm">
+<footer class="col-xs-12 text-center mtb-15">
 
-© <?php echo date("Y"); echo get_site_url(); ?>
+© <?php echo date("Y") . " " . get_site_url(); ?>
 
 </footer>
 

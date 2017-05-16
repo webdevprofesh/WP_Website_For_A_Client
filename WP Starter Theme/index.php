@@ -10,7 +10,7 @@
   <hr>
 
 <main>
-  <div class="container margin-sm">
+  <div class="container mtb-15">
     <?php the_content(); ?>
   </div>
 </main>

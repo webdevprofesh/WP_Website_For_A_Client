@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?php bloginfo('name'); ?> | <?php wp_title(); ?></title>
+    <title><?php bloginfo('name'); ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/jquery-3.2.1.min.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/smooth-scroll.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
